@@ -8,6 +8,13 @@
             "Davidle90\\Timetracker\\": "src/"
         }
     },
+    "extra":{
+        "laravel":{
+            "providers":[
+                "Davidle90\\Timetracker\\TimetrackerServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "david le"
