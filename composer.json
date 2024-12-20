@@ -1,0 +1,18 @@
+{
+    "name": "davidle90/timetracker",
+    "description": "time-tracking package for worked hours",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Davidle90\\Timetracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "david le"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
